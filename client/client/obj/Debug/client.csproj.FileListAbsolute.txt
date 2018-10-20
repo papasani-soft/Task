@@ -1,0 +1,10 @@
+F:\sercli\client\client\bin\Debug\client.exe.config
+F:\sercli\client\client\bin\Debug\client.exe
+F:\sercli\client\client\bin\Debug\client.pdb
+F:\sercli\client\client\obj\Debug\client.csprojAssemblyReference.cache
+F:\sercli\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+F:\sercli\client\client\obj\Debug\client.exe
+F:\sercli\client\client\obj\Debug\client.pdb
+F:\sercli\client\client\bin\Debug\Newtonsoft.Json.dll
+F:\sercli\client\client\bin\Debug\Newtonsoft.Json.xml
+F:\sercli\client\client\obj\Debug\client.csproj.CopyComplete
